@@ -1,3 +1,15 @@
+# Warpspeed Vagrant Legacy Fork
+
+This fork is intended to be used to continue development on applications built
+on warpspeed back when it was on Ubuntu 14.04.
+
+Notably, it provisions the vagrant box with [another legacy fork of
+warpspeed](https://github.com/zgulde/warpspeed), which is also back in time to
+before warpspeed was upgraded to ubuntu 16.04.
+
+In theory this should work with any older warpspeed application, but is only
+tested with developing php 5.x applications.
+
 # WarpSpeed Vagrant Configuration
 
 We make web deployment easy. For complete information, please visit: http://warpspeed.io
