@@ -4,7 +4,7 @@
 # (c) Turner Logic, LLC. Distributed under the GNU GPL v2.0.
 
 # Setup github repo to pull from.
-REPOPATH="warpspeed/warpspeed"
+REPOPATH="zgulde/warpspeed"
 
 # Ensure git is installed.
 apt-get -y install git-core
