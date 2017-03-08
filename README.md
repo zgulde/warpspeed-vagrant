@@ -20,7 +20,15 @@ Vagrant is a tool that allows you to quickly and easily create virtual environme
 
 ## WarpSpeed Vagrantfile Usage
 
-WarpSpeed uses vagrant to provide a development enviroment that matches the WarpSpeed production environment configuration. First, download and install Vagrant using the link provided in the section above. Next, clone this repository to your computer. Then, open a terminal and cd to the cloned repository location. Finally, type `vagrant up` to create a local WarpSpeed development environment.
+WarpSpeed uses vagrant to provide a development enviroment that matches the WarpSpeed production environment configuration.
+
+### Setup
+
+1. Download and install Vagrant using the link provided in the section above.
+1. Clone this repository to your computer.
+1. Create the `~/Sites` directory, this is where you applications will live.
+1. Open a terminal and cd to the cloned repository location.
+1. Type `vagrant up` to create a local WarpSpeed development environment.
 
 ## Customize Installation Options
 
